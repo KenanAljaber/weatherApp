@@ -1,0 +1,15 @@
+.secondaryInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+.primaryInfo{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.additionalInfo{
+    text-align: center;
+}
