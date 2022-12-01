@@ -13,7 +13,7 @@ export default function WeatherMainInfo({ weather }) {
         <div className={styles.secondaryInfo}>
         <div>
         
-            <img src={`http:${weather?.current.condition.icon}`} width="128px"
+            <img src={`https:${weather?.current.condition.icon}`} width="128px"
                 alt={weather?.current.condition.text} />
         </div>
        
